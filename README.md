@@ -1,4 +1,4 @@
-# 🗂️ Linux Terminal-Based File Explorer
+# 🗂️ Linux Terminal-Based File Explorer( Capstone Project )
 
 ## 📘 Overview
 This project is a **console-based File Explorer written in C++** that runs exclusively on **Linux operating systems**. It allows users to **navigate directories**, **view file details**, and **perform basic file management operations** directly through the terminal interface.
@@ -126,6 +126,7 @@ This capstone project provided valuable experience in:
 
 ## 🧑‍💻 Author
 **Name:** Himanshu sekhar sahoo 
+
 **Course:** B.Tech – Computer Science & Engineering  
 **Subject:** Linux Operating System (LinuxOS) Capstone Project  
 **Date:** November 2025
