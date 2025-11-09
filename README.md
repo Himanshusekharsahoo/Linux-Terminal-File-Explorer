@@ -126,7 +126,6 @@ This capstone project provided valuable experience in:
 
 ## 🧑‍💻 Author
 **Name:** Himanshu sekhar sahoo 
-
 **Course:** B.Tech – Computer Science & Engineering  
 **Subject:** Linux Operating System (LinuxOS) Capstone Project  
 **Date:** November 2025
